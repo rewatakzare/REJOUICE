@@ -1,0 +1,21 @@
+:root{
+    --beige:#FFFCF1;
+    --brown:#18120b;
+}
+@font-face {
+    font-family: rejouice;
+    src: url(./assets/fonts/Rejouice-Headline.woff2);
+}
+
+@font-face {
+    font-family: nbb;
+    src: url(./assets/fonts/NB-International-Pro-Bold.woff2);
+}
+@font-face {
+    font-family: nbl;
+    src: url(./assets/fonts/NB-International-Pro-Light.woff2);
+}
+@font-face {
+    font-family: nbr;
+    src: url(./assets/fonts/NB-International-Pro-Regular.woff2);
+}
