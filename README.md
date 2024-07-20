@@ -1,5 +1,6 @@
 # REJOUICE
 Welcome to Rejouice! This animated and interactive website showcases the power of modern web technologies to deliver a smooth and engaging user experience. Built with HTML5, CSS3, Tailwind CSS,  JavaScript, GSAP and Locomotive Scroll v5 and Rejouice combines cutting-edge design and performance techniques to create a visually stunning web experience.
+### For visual expirence- https://rewatakzare.github.io/REJOUICE/
 # Table of Contents
 -Overview  
 -Features  
